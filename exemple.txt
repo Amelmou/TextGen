@@ -1,0 +1,431 @@
+Tout est bien qui finit bien
+Shakespeare_homepage | All's_Well_That_Ends_Well | Jeu entier
+**** ACT I ****
+**** SCÈNE I. Rousillon. Le palais du COMTE. ****
+     Entrez BERTRAM, la COMTESSE de Rousillon, HELENA et LAFEU, tous en
+     noir
+COMTESSE
+     En délivrant mon fils de moi, j'enterre un deuxième mari.
+BERTRAM
+     Et moi en allant, madame, pleurer la mort de mon père
+     nouveau: mais je dois assister au commandement de Sa Majesté, pour
+     que je suis maintenant en garde, toujours plus soumis.
+LAFEU
+     Vous trouverez du roi un mari, madame; toi,
+     monsieur, un père: celui qui est si généralement en tout temps
+     le bien doit nécessairement vous tenir sa vertu; dont
+     la dignité le remuerait là où il voulait plutôt
+     que de manquer là où il y a une telle abondance.
+COMTESSE
+     Quel espoir y a-t-il de l'amendement de Sa Majesté?
+LAFEU
+     Il a abandonné ses médecins, madame; sous qui
+     pratiques qu'il a persécuté le temps avec espoir, et
+     ne trouve aucun autre avantage dans le processus, mais seulement la
+     perte d'espoir par le temps.
+COMTESSE
+     Cette jeune femme douce avait un père, - O, que
+     'eu'! comme c'est triste un passage! - dont l'habileté était
+     presque aussi grand que son honnêteté; avait étiré si
+     loin, aurait rendu la nature immortelle, et la mort
+     devrait jouer par manque de travail. Serait, pour la
+     l'amour du roi, il vivait! Je pense que ce serait
+     la mort de la maladie du roi.
+LAFEU
+     Comment avez-vous appelé l'homme dont vous parlez, madame?
+COMTESSE
+     Il était célèbre, monsieur, dans sa profession, et c'était
+     son grand droit de l'être: Gérard de Narbon.
+LAFEU
+     Il était excellent en effet, madame: le roi très
+     a récemment parlé de lui avec admiration et deuil: il
+     était assez habile pour avoir vécu encore, si la connaissance
+     pourrait être mis en place contre la mortalité.
+BERTRAM
+     De quoi, mon bon seigneur, le roi languit?
+LAFEU
+     Une fistule, mon seigneur.
+BERTRAM
+     Je n'en ai jamais entendu parler auparavant.
+LAFEU
+     Je voudrais que ce ne soit pas notoire. Était cette gentille
+     la fille de Gérard de Narbon?
+COMTESSE
+     Son unique enfant, mon seigneur, et légué à mon
+     surplombant. J'ai ces espoirs de bien qu'elle
+     son éducation promet; ses dispositions, elle
+     hérite, ce qui rend les cadeaux équitables plus équitables; au cas où
+     un esprit impur porte des qualités vertueuses,
+     les éloges vont avec pitié; ce sont des vertus et
+     les traîtres aussi; en elle, ils sont meilleurs pour leur
+     simplicité; elle tire son honnêteté et atteint sa bonté.
+LAFEU
+     Vos félicitations, madame, viennent de ses larmes.
+COMTESSE
+     C'est la meilleure saumure qu'une fille puisse assaisonner
+     in. Le souvenir de son père ne s'approche jamais
+     son cur mais la tyrannie de ses peines prend tout
+     les moyens de subsistance de sa joue. Pas plus de cela, Helena;
+     allez, pas plus; de peur qu'il soit plutôt pensé que vous affectez
+     une douleur que de l'avoir.
+HELENA
+     J'affecte effectivement un chagrin, mais je l'ai aussi.
+LAFEU
+     La lamentation modérée est le droit des morts,
+     chagrin excessif l'ennemi aux vivants.
+COMTESSE
+     Si les vivants sont ennemis du chagrin, l'excès
+     le rend bientôt mortel.
+BERTRAM
+     Madame, je désire vos saints voeux.
+LAFEU
+     Comment comprenons-nous cela?
+COMTESSE
+     Sois béni, Bertram, et succède à ton père
+     De manières comme de forme! ton sang et ta vertu
+     Lutte pour l'empire en toi et ta bonté
+     Partagez avec votre droit d'aînesse! Aimez tous, faites confiance à quelques-uns,
+     Ne fais de mal à personne: sois capable pour ton ennemi
+     Plutôt au pouvoir qu'à l'usage, et garde ton ami
+     Sous la clé de ta propre vie: soyez châtié pour le silence,
+     Mais jamais taxé pour le discours. Qu'est-ce que le ciel veut de plus,
+     Afin que tu puisses fournir et que mes prières soient épuisées,
+     Tombe sur ta tête! Adieu, monseigneur;
+     C'est un courtisan hors saison; bon mon seigneur,
+     Conseillez-le.
+LAFEU
+     Il ne peut pas vouloir le meilleur
+     Cela doit accompagner son amour.
+COMTESSE
+     Que le ciel le bénisse! Adieu, Bertram.
+     Sortie
+BERTRAM
+     [A HELENA] Les meilleurs vux qui peuvent être forgés dans
+     vos pensées vous soient servantes! Être confortable
+     à ma mère, votre maîtresse, et faites beaucoup d'elle.
+LAFEU
+     Adieu, jolie dame: vous devez avoir le crédit de
+     ton père.
+     À la rencontre de BERTRAM et LAFEU
+HELENA
+     O, c'était tout! Je ne pense pas à mon père;
+     Et ces grandes larmes honorent son souvenir plus
+     Que ceux que je lui ai jetés. Comment était-il?
+     Je l'ai oublié: mon imagination
+     N'accorde aucune faveur à celle de Bertram.
+     Je suis défait: il n'y a pas de vie, rien,
+     Si Bertram est absent. 'Twere all one
+     Que je devrais aimer une étoile particulière brillante
+     Et pensez à l'épouser, il est tellement au-dessus de moi:
+     Dans son éclat lumineux et sa lumière collatérale
+     Dois-je être réconforté, pas dans sa sphère.
+     L'ambition dans mon amour se meurt ainsi:
+     La biche qui serait accouplée par le lion
+     Doit mourir par amour. 'Twas jolie, bien que la peste,
+     Le voir toutes les heures; s'asseoir et dessiner
+     Ses sourcils arqués, son il colporteur, ses boucles,
+     Dans la table de notre cur; coeur trop capable
+     De chaque ligne et astuce de sa douce faveur:
+     Mais maintenant il est parti, et ma fantaisie idolâtre
+     Doit sanctifier ses reliques. Qui vient ici?
+     Entrez PAROLLES
+     De côté
+     Celui qui l'accompagne: je l'aime pour lui;
+     Et pourtant, je le connais un menteur notoire,
+     Considérez-le comme un idiot formidable, uniquement un lâche;
+     Pourtant, ces maux fixes sont si bien en lui,
+     Qu'ils aient lieu, quand les os d'acier de la vertu
+     Regardez sombre dans le vent froid: avec, nous voyons plein de fois
+     Une froide sagesse attend une folie superflue.
+PAROLLES
+     Sauvez-vous, belle reine!
+HELENA
+     Et toi, monarque!
+PAROLLES
+     Non.
+HELENA
+     Et non.
+PAROLLES
+     Méditez-vous sur la virginité?
+HELENA
+     Oui. Vous avez une tache de soldat en vous: laissez-moi
+     te poser une question. L'homme est ennemi de la virginité; Comment
+     pouvons-nous la barricader contre lui?
+PAROLLES
+     Éloignez-le.
+HELENA
+     Mais il assaille; et notre virginité, bien que vaillante,
+     dans la défense est encore faible: dépliez-nous certains
+     résistance guerrière.
+PAROLLES
+     Il n'y en a pas: l'homme, assis devant toi,
+     vous affaiblir et vous faire exploser.
+HELENA
+     Bénis notre pauvre virginité des sapeurs et
+     souffle! N'y a-t-il pas de politique militaire, comment
+     les vierges pourraient faire exploser les hommes?
+PAROLLES
+     La virginité étant anéantie, l'homme sera plus rapidement
+     explosé: se marier, en le soufflant à nouveau, avec
+     la brèche que vous avez vous-même faite, vous perdez votre ville. Il
+     n'est pas politique dans le Commonwealth de la nature
+     préserver la virginité. La perte de virginité est rationnelle
+     augmenter et il n'y a jamais eu de vierge jusqu'à
+     la virginité a d'abord été perdue. Que vous étiez fait
+     métal pour faire des vierges. La virginité en étant une fois perdue
+     peut être trouvé dix fois; en étant toujours gardé, il est
+     jamais perdu: c'est un compagnon trop froid; loin avec 't!
+HELENA
+     Je défendrai 'ta little, bien que je meure donc vierge.
+PAROLLES
+     Il n'y a pas grand-chose à dire dans 't; c'est contre le
+     règle de la nature. Pour parler de la virginité,
+     c'est accuser vos mères; ce qui est le plus infaillible
+     désobéissance. Celui qui se pend est vierge:
+     la virginité se tue et doit être enterrée dans
+     autoroutes hors de toute limite sanctifiée, comme un désespéré
+     offensante contre la nature. La virginité élève des acariens,
+     un peu comme un fromage; se consomme au très
+     parer, et meurt ainsi en nourrissant son propre estomac.
+     En outre, la virginité est grivoise, fière, oisive, faite de
+     l'amour-propre, qui est le péché le plus inhibé
+     canon. Ne le garde pas; vous ne pouvez pas choisir mais perdre
+     by't: out with 't! dans un délai de dix ans, cela fera
+     lui-même dix, ce qui est une bonne augmentation; et le
+     principal lui-même pas le pire: loin avec 't!
+HELENA
+     Comment pourrait-on faire, monsieur, pour le perdre à son gré?
+PAROLLES
+     Laissez-moi voir: mariez-vous, malade, pour l'aimer comme ça
+     aime. «C'est une marchandise perdra son brillant avec
+     mensonge; le plus longtemps gardé, le moins de valeur: off with 't
+     tout en étant vendable; répondre au moment de la demande.
+     La virginité, comme un vieux courtisan, porte sa casquette
+     de la mode: richement adaptée, mais inadaptée: juste
+     comme la broche et le cure-dent, qui ne portent pas
+     à présent. Votre date est meilleure dans votre tarte et votre
+     bouillie que dans votre joue; et votre virginité,
+     votre ancienne virginité, c'est comme un de nos français
+     poires flétries, elle a l'air malade, elle mange sèchement; marier,
+     c'est une poire fanée; c'était mieux auparavant;
+     se marier, mais c'est une poire fanée: voulez-vous quelque chose avec elle?
+HELENA
+     Pas encore ma virginité []
+     Là ton maître aura mille amours,
+     Une mère et une maîtresse et un ami,
+     Un phénix, capitaine et ennemi,
+     Un guide, une déesse et un souverain,
+     Un conseiller, une traîtresse et une chère;
+     Son humble ambition, sa fière humilité,
+     Sa concorde discordante, et sa boule de discorde,
+     Sa foi, son doux désastre; avec un monde
+     De belles chrétientés adoptives,
+     Ces potins clignotants de Cupidon. Maintenant, il ...
+     Je ne sais pas ce qu'il doit. Dieu l'envoie bien!
+     La cour est un lieu d'apprentissage, et il est l'un ...
+PAROLLES
+     Laquelle, j'ai la foi?
+HELENA
+     Que je souhaite bien. 'Dommage ...
+PAROLLES
+     Quelle pitié?
+HELENA
+     Ce bon souhait n'avait pas de corps,
+     Ce qui pourrait être ressenti; que nous, les pauvres nés,
+     Dont les étoiles les plus bas nous enferment dans les souhaits,
+     Pourrait avec leurs effets suivre nos amis,
+     Et montrer ce que nous devons penser seuls, qui ne
+     Retournez-nous merci.
+     Entrer dans la page
+Page
+     Monsieur Parolles, mon seigneur vous appelle.
+     Sortie
+PAROLLES
+     Petite Hélène, adieu; si je me souviens de toi, je
+     pensera à toi à la cour.
+HELENA
+     Monsieur Parolles, vous êtes né sous une star charitable.
+PAROLLES
+     Sous Mars, je.
+HELENA
+     I especially think, under Mars.
+PAROLLES
+     Why under Mars?
+HELENA
+     The wars have so kept you under that you must needs
+     be born under Mars.
+PAROLLES
+     When he was predominant.
+HELENA
+     When he was retrograde, I think, rather.
+PAROLLES
+     Why think you so?
+HELENA
+     You go so much backward when you fight.
+PAROLLES
+     That's for advantage.
+HELENA
+     So is running away, when fear proposes the safety;
+     but the composition that your valour and fear makes
+     in you is a virtue of a good wing, and I like the wear well.
+PAROLLES
+     I am so full of businesses, I cannot answer thee
+     acutely. I will return perfect courtier; in the
+     which, my instruction shall serve to naturalize
+     thee, so thou wilt be capable of a courtier's
+     counsel and understand what advice shall thrust upon
+     thee; else thou diest in thine unthankfulness, and
+     ton ignorance t'éloigne: adieu. Quand
+     tu as du loisir, dis tes prières; quand tu as
+     aucun, souviens-toi de tes amis; fais de toi un bon mari,
+     et utilisez-le comme il vous utilise; alors, adieu.
+     Sortie
+HELENA
+     Nos remèdes se trouvent souvent en nous-mêmes,
+     Ce que nous attribuons au ciel: le ciel fatal
+     Nous donne une portée libre, ne fait que tirer vers l'arrière
+     Nos conceptions lentes quand nous sommes nous-mêmes ternes.
+     Quelle est la puissance qui monte mon amour si haut,
+     Cela me fait voir et ne peut pas nourrir mes yeux?
+     L'espace le plus puissant de la nature de fortune apporte
+     Pour rejoindre comme j'aime et embrasser comme des choses indigènes.
+     Impossible d'être des tentatives étranges pour ceux
+     Qui pèsent leurs douleurs dans le sens et supposent
+     Ce qui a été ne peut pas être: qui s'est efforcé
+     Alors montrez-lui son mérite, son amour lui a manqué?
+     La maladie du roi - mon projet peut me tromper,
+     Mais mes intentions sont fixes et ne me quitteront pas.
+     Sortie
+**** SCÈNE II. Paris. Le palais du ROI. ****
+     S'épanouir de cornets. Entrez dans le ROI de France, avec des lettres, et
+     Divers Attendants
+ROI
+     Les Florentins et les Senoys sont aux oreilles;
+     Ont combattu avec la même fortune et continuent
+     Une guerre courageuse.
+Premier seigneur
+     Donc, c'est rapporté, monsieur.
+ROI
+     Non, c'est le plus crédible; nous l'avons reçu ici
+     Une certitude, garantie par notre cousin Autriche,
+     Avec prudence que le Florentin nous émeut
+     Pour une aide rapide; où notre cher ami
+     Porte préjudice à l'entreprise et semble
+     Pour nous faire nier.
+Premier seigneur
+     Son amour et sa sagesse,
+     Approuvé ainsi à Votre Majesté, peut plaider
+     Pour une crédibilité maximale.
+ROI
+     Il a armé notre réponse,
+     Et Florence est refusée avant son arrivée:
+     Pourtant, pour nos messieurs, cela signifie voir
+     Le service toscan, laisse librement partir
+     Pour se tenir sur l'une ou l'autre partie.
+Second Lord
+     Cela peut bien servir
+     Une crèche pour notre gentry, qui est malade
+     Pour respirer et exploiter.
+ROI
+     Qu'est-ce qu'il vient ici?
+     Entrez BERTRAM, LAFEU et PAROLLES
+Premier seigneur
+     C'est le comte Rousillon, mon bon seigneur,
+     Jeune Bertram.
+ROI
+     Jeunesse, tu portes le visage de ton père;
+     Nature franche, plutôt curieuse que pressée,
+     Il t'a bien composé. Les parties morales de ton père
+     Puissiez-vous hériter aussi! Bienvenue à Paris.
+BERTRAM
+     Mes remerciements et mon devoir sont de Votre Majesté.
+ROI
+     Je voudrais avoir cette solidité corporelle maintenant,
+     Comme quand ton père et moi en amitié
+     D'abord essayé notre vaisseau militaire! Il avait l'air loin
+     Au service de l'époque et était
+     Discipliné des plus courageux: il a duré longtemps;
+     Mais sur nous deux, l'âge haggish a volé
+     Et nous a épuisés. Ça me répare beaucoup
+     Pour parler de ton bon père. Dans sa jeunesse
+     Il avait l'esprit que je peux bien observer
+     Aujourd'hui dans nos jeunes seigneurs; mais ils peuvent plaisanter
+     Jusqu'à ce que leur propre mépris leur revienne sans nom
+     Avant de pouvoir cacher leur légèreté en l'honneur;
+     Comme un courtisan, mépris ni amertume
+     Étaient dans sa fierté ou sa netteté; si elles étaient,
+     Son égal les avait réveillés, et son honneur,
+     Horloge à lui-même, savait la vraie minute où
+     Exception lui a dit de parler, et à ce moment
+     Sa langue obéit à sa main: qui étaient en dessous de lui
+     Il a utilisé comme créatures d'un autre endroit
+     Et inclina son haut éminent dans leurs rangs inférieurs,
+     Les rendant fiers de son humilité,
+     Dans leurs pauvres éloges, il a humilié. Un tel homme
+     Pourrait être une copie de ces temps plus jeunes;
+     Ce qui, bien suivi, les démontrerait maintenant
+     Mais les amateurs en arrière.
+BERTRAM
+     Son bon souvenir, monsieur,
+     Il réside plus riche dans vos pensées que sur sa tombe;
+     Donc, dans une vie proche, pas son épitaphe
+     Comme dans votre discours royal.
+ROI
+     Aurais-je été avec lui! Il disait toujours ...
+     Je pense que je l'entends maintenant; ses mots plausifs
+     Il ne se dispersa pas dans les oreilles, mais les greffa,
+     Pour y grandir et supporter, - «Ne me laisse pas vivre», -
+     Cela commença souvent sa bonne mélancolie,
+     Sur la catastrophe et le talon du passe-temps,
+     Quand il fut sorti, - "Ne me laisse pas vivre", dit-il,
+     «Après que ma flamme manque d'huile, pour être le tabac à priser
+     Des esprits plus jeunes, dont les sens d'appréhension
+     Tout, sauf de nouvelles choses, dédaigne; dont les jugements sont
+     De simples pères de leurs vêtements; dont constances
+     Expire avant leur mode. Ce qu'il souhaitait;
+     Après lui, je le souhaite aussi,
+     Puisque ni la cire ni le miel ne peuvent ramener à la maison,
+     J'ai rapidement été dissous de ma ruche,
+     Pour donner de la place à certains ouvriers.
+Second Lord
+     Vous êtes aimé, monsieur:
+     Ceux qui vous le prêtent le moins vous manqueront d'abord.
+ROI
+     Je remplis une place, je ne sais pas. Combien de temps, comptez,
+     Depuis la mort du médecin de votre père?
+     Il était très célèbre.
+BERTRAM
+     Depuis six mois environ, monseigneur.
+ROI
+     S'il vivait, je l'essayerais encore.
+     Prêtez-moi un bras; le reste m'a épuisé
+     Avec plusieurs applications; nature et maladie
+     Débattez à loisir. Bienvenue, comptez;
+     Mon fils n'est pas plus cher.
+BERTRAM
+     Merci Votre Majesté.
+     Exeunt. fleurir
+**** SCÈNE III. Rousillon. Le palais du COMTE. ****
+     Entrez COUNTESS, Steward et Clown
+COMTESSE
+     Je vais maintenant entendre; que dites-vous de cette femme douce?
+Intendant
+     Madame, le soin que j'ai eu à égaliser votre contenu, je
+     le souhait pourrait être trouvé dans le calendrier de mon passé
+     efforts; car alors nous blessons notre modestie et faisons
+     souiller la clarté de nos mérites, quand de
+     nous les publions.
+COMTESSE
+     Qu'est-ce que ce bonhomme ici? Partez, sirrah:
+     les plaintes que j'ai entendues de toi je ne les ai pas tous
+     crois: c'est ma lenteur que je ne fais pas; car je sais
+     vous ne manquez pas de folie pour les commettre et avez la capacité
+     assez pour faire de telles conneries.
+Pitre
+     - Ce n'est pas pour vous, madame, que je suis un pauvre garçon.
+COMTESSE
+     Eh bien, monsieur.
+Pitre
+     Non, madame, ce n'est pas si bien que je sois pauvre,
+     beaucoup de riches sont damnés: mais, si je peux avoir
+     la bonne volonté de votre seigneur d'aller dans le monde, Isbel

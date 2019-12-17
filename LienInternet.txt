@@ -1,0 +1,15 @@
+
+
+
+Lien vers les sites internet:
+
+https://keras.io/examples/lstm_text_generation/
+
+https://github.com/TannerGilbert/Tutorials/blob/master/Keras-Tutorials/4.%20LSTM%20Text%20Generation/Keras%20LSTM%20Text%20Generation.ipynb
+
+
+
+j'ai utiliser 2 fichier texte pour la génération de texte:
+shakspear.txt ---> la vrai dataset 
+exemple.txt ---> une partie du fichier shakspear.txt que j'ai utiliser pour les tests 
+
